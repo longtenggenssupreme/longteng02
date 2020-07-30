@@ -1,0 +1,12 @@
+F:\Person\aaa\longteng02\MyTestDB\ConsoleNetCoreApp\bin\Debug\netcoreapp3.1\MongoDBConsoleNetCoreApp.exe
+F:\Person\aaa\longteng02\MyTestDB\ConsoleNetCoreApp\bin\Debug\netcoreapp3.1\MongoDBConsoleNetCoreApp.deps.json
+F:\Person\aaa\longteng02\MyTestDB\ConsoleNetCoreApp\bin\Debug\netcoreapp3.1\MongoDBConsoleNetCoreApp.runtimeconfig.json
+F:\Person\aaa\longteng02\MyTestDB\ConsoleNetCoreApp\bin\Debug\netcoreapp3.1\MongoDBConsoleNetCoreApp.runtimeconfig.dev.json
+F:\Person\aaa\longteng02\MyTestDB\ConsoleNetCoreApp\bin\Debug\netcoreapp3.1\MongoDBConsoleNetCoreApp.dll
+F:\Person\aaa\longteng02\MyTestDB\ConsoleNetCoreApp\bin\Debug\netcoreapp3.1\MongoDBConsoleNetCoreApp.pdb
+F:\Person\aaa\longteng02\MyTestDB\ConsoleNetCoreApp\obj\Debug\netcoreapp3.1\MongoDBConsoleNetCoreApp.AssemblyInfoInputs.cache
+F:\Person\aaa\longteng02\MyTestDB\ConsoleNetCoreApp\obj\Debug\netcoreapp3.1\MongoDBConsoleNetCoreApp.AssemblyInfo.cs
+F:\Person\aaa\longteng02\MyTestDB\ConsoleNetCoreApp\obj\Debug\netcoreapp3.1\MongoDBConsoleNetCoreApp.csproj.CoreCompileInputs.cache
+F:\Person\aaa\longteng02\MyTestDB\ConsoleNetCoreApp\obj\Debug\netcoreapp3.1\MongoDBConsoleNetCoreApp.dll
+F:\Person\aaa\longteng02\MyTestDB\ConsoleNetCoreApp\obj\Debug\netcoreapp3.1\MongoDBConsoleNetCoreApp.pdb
+F:\Person\aaa\longteng02\MyTestDB\ConsoleNetCoreApp\obj\Debug\netcoreapp3.1\MongoDBConsoleNetCoreApp.genruntimeconfig.cache
