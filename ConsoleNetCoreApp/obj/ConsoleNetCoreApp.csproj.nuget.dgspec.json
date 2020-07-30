@@ -46,6 +46,10 @@
             "MongoDB.Driver": {
               "target": "Package",
               "version": "[2.10.4, )"
+            },
+            "Quartz": {
+              "target": "Package",
+              "version": "[3.1.0, )"
             }
           },
           "imports": [
