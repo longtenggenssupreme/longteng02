@@ -9,7 +9,7 @@ namespace ConsoleNetCoreApp
         {
             Console.WriteLine("Hello World!");
 
-            TestQuartz();
+            TestQuartz().Wait();
             Console.Read();
         }
 
