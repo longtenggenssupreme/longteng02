@@ -1,7 +1,10 @@
-﻿using MongoDB.Driver;
+﻿/*
+ * MongoDB客户端连接服务端，服务端的mongodb数据库是是安装在Linux CentOS 7中的docker上的Mongodb
+ * 
+ */
+using MongoDB.Driver;
 using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace ConsoleNetCoreApp
 {

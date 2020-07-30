@@ -1,4 +1,5 @@
-﻿LINUX CentOS 7 Docker 安装MongoDB的步骤
+﻿服务端
+LINUX CentOS 7 Docker 安装MongoDB的步骤
 
 [lj@localhost ~]$ sudo docker search mongo
 [lj@localhost ~]$ sudo docker pull mongo: latest
