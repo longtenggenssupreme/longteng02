@@ -15,12 +15,14 @@ namespace ConsoleNetCoreApp
             var builder =new  MongoUrlBuilder("mongodb://linjie:123456@192.168.1.133:27017/test");
 
             #region MongoDB连接方式 第一种
-            var mongoClientSettings = new MongoClientSettings();
-            mongoClientSettings.ConnectTimeout = TimeSpan.FromSeconds(10);
-            mongoClientSettings.MinConnectionPoolSize = 10;
-            mongoClientSettings.Credential = MongoCredential.CreateCredential(builder.DatabaseName, builder.Username, builder.Password);
-            mongoClientSettings.Server = builder.Server;
-            mongoClientSettings.ReadPreference = new ReadPreference(ReadPreferenceMode.Primary);
+            var mongoClientSettings = new MongoClientSettings
+            {
+                ConnectTimeout = TimeSpan.FromSeconds(10),
+                MinConnectionPoolSize = 10,
+                Credential = MongoCredential.CreateCredential(builder.DatabaseName, builder.Username, builder.Password),
+                Server = builder.Server,
+                ReadPreference = new ReadPreference(ReadPreferenceMode.Primary)
+            };
             MongoClient = new MongoClient(mongoClientSettings);
             #endregion
 
