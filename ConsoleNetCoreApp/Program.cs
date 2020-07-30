@@ -8,7 +8,6 @@ namespace ConsoleNetCoreApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-
             TestQuartz().Wait();
             Console.Read();
         }
@@ -23,7 +22,7 @@ namespace ConsoleNetCoreApp
         }
 
         /// <summary>
-        /// 测试mongodb
+        /// 测试Quartz定时任务
         /// </summary>
         public async static Task TestQuartz()
         {
